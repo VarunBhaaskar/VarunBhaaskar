@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am Varun Bhaaskar. I am currently pursuing my bachelor's in Electronics and Communication engineering with a strong interest towards Machine learning and Deep learning apart from my own core fields.
+I am Varun Bhaaskar. I have done my bachelor's in Electronics and Communication engineering with a strong interest towards Machine learning and Deep learning apart from my own core fields.
 
 
 
